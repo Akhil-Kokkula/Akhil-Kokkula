@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Profile Stats ##
+<img src="https://github-readme-stats.vercel.app/api?username=Akhil-Kokkula&show_icons=true&theme=default&count_private=true&hide_rank=true" height="150"></img>
+
 
