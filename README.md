@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ## Profile Stats ##
 <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Kokkula&show_icons=true&show_icons=true&theme=default&count_private=true" height="150"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Kokkula&layout=compact&theme=default&count_private=true" height="150"></img>
 
